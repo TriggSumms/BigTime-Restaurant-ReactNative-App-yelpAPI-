@@ -13,7 +13,7 @@
 
 # ...The BigTimeRestaurantApp Application
     *This is an application  worked via Stephen Grider's React Native Course [2021]
-    * The application works to establish communication and setup with the [YelpAPI] (https://www.yelp.com/developers) using fundamentals associatted with ReactNative...card creation, headers, detail menus, and fill
+    * The application works to establish communication and setup with the [YelpAPI](https://www.yelp.com/developers) using fundamentals associatted with ReactNative...card creation, headers, detail menus, and fill
     
 > ## Understand React Native v0.62.2 ...
     >> Concepts learned in Detail via Expo Testing:
