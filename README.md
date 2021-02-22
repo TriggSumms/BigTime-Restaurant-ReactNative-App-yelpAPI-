@@ -2,7 +2,7 @@
 <br/>
 <p align="center">
     <a >
-        <img width="50%" height="500px" src="https://res.cloudinary.com/triggsumms/image/upload/v1613953986/zbdvyw3z2bajg8nlp1ww.jpg"  alt="TRACKER logo">
+        <img width="50%"  src="https://res.cloudinary.com/triggsumms/image/upload/v1613953986/zbdvyw3z2bajg8nlp1ww.jpg"  alt="TRACKER logo">
     </a>
 </p>
 
