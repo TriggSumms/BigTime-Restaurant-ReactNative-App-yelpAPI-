@@ -2,7 +2,7 @@
 <br/>
 <p align="center">
     <a >
-        <img width="65%" height="500px" src="https://res.cloudinary.com/triggsumms/image/upload/v1613953986/zbdvyw3z2bajg8nlp1ww.jpg"  alt="TRACKER logo">
+        <img width="50%" height="500px" src="https://res.cloudinary.com/triggsumms/image/upload/v1613953986/zbdvyw3z2bajg8nlp1ww.jpg"  alt="TRACKER logo">
     </a>
 </p>
 
@@ -53,7 +53,7 @@ npm start
 ```
 
 ```
-# *The Yelp API is already integrated so interaction should start after the app builds. 
+# *The Yelp API is fully integrated...so interaction should start after the app builds. 
 
 ```
 
